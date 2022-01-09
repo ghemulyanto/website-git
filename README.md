@@ -2,4 +2,4 @@ Read me please
 
 **Website learning git
 
-Add new line in master
+add new line on branch master

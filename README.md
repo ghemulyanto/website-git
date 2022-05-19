@@ -7,3 +7,4 @@ add new line on branch master
 feature recommendations is under development
 
 adding referral feature
+feature fraud
